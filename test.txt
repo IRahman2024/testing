@@ -1,2 +1,3 @@
 this text is from branch2
 added new line.
+another line
